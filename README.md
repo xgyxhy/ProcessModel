@@ -1,0 +1,1 @@
+This collection contains 100 automatically generated the process models described and used in the paper ‘Generating algorithm for the behavior equivalent process tree based on complete finite prefix’# ProcessModel
